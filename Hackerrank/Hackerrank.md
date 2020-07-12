@@ -131,6 +131,7 @@ for( k = 0 ; k < T ; k++ )
     /* Enter your code here. Read input from STDIN. Print output to STDOUT */    
     return 0;
 }
+
 ``` 
 ## Challenge 2: Tell the Average 
 #### Contest : Ad Infinitum 8 - Math Programming Contest  
@@ -163,6 +164,7 @@ long N, i;
     /* Enter your code here. Read input from STDIN. Print output to STDOUT */    
     return 0;
 }
+
 ``` 
 ## Challenge 3: 2D Array - DS 
 #### Contest : Master 
@@ -197,6 +199,7 @@ int main(){
     printf("%d",largest_sum);
     return 0;
 }
+
 ``` 
 ## Challenge 4: ACM ICPC Team 
 #### Contest : Master 
@@ -242,6 +245,7 @@ int i,j,k,no_of_persons,no_of_subjects,count=0,max_sub_known=0;
     /* Enter your code here. Read input from STDIN. Print output to STDOUT */    
     return 0;
 }
+
 ``` 
 ## Challenge 5: Angry Professor 
 #### Contest : Master 
@@ -275,6 +279,7 @@ int main(){
     }
     return 0;
 }
+
 ``` 
 ## Challenge 6: Arrays - DS 
 #### Contest : Master 
@@ -300,6 +305,7 @@ int main(){
         printf("%d ",arr[arr_i]);
     return 0;
 }
+
 ``` 
 ## Challenge 7: Bigger is Greater 
 #### Contest : Master 
@@ -366,6 +372,7 @@ long long T;
     /* Enter your code here. Read input from STDIN. Print output to STDOUT */    
     return 0;
 }
+
 ``` 
 ## Challenge 8: Chocolate Feast  
 #### Contest : Master 
@@ -398,6 +405,7 @@ int main() {
     }
     return 0;
 }
+
 ``` 
 ## Challenge 9: Closest Numbers 
 #### Contest : Master 
@@ -458,6 +466,7 @@ int main() {
         printf("%ld ", a[i]);
     return 0;
 }
+
 ``` 
 ## Challenge 10: Connecting Towns 
 #### Contest : Master 
@@ -489,6 +498,7 @@ int main() {
     /* Enter your code here. Read input from STDIN. Print output to STDOUT */    
     return 0;
 }
+
 ``` 
 ## Challenge 11: Correctness and the Loop Invariant 
 #### Contest : Master 
@@ -537,6 +547,7 @@ int main(void) {
 
     return 0;
 }
+
 ``` 
 ## Challenge 12: Counting Sort 1 
 #### Contest : Master 
@@ -567,6 +578,7 @@ int main() {
         printf("%d ", count[i]);
     return 0;
 }
+
 ``` 
 ## Challenge 13: Counting Sort 2 
 #### Contest : Master 
@@ -601,6 +613,7 @@ int main() {
     }
     return 0;
 }
+
 ``` 
 ## Challenge 14: Counting Sort 3 
 #### Contest : Master 
@@ -639,6 +652,7 @@ int main() {
         printf("%d ", count[i]);
     return 0;
 }
+
 ``` 
 ## Challenge 15: Cut the sticks 
 #### Contest : Master 
@@ -682,6 +696,7 @@ int N;
     /* Enter your code here. Read input from STDIN. Print output to STDOUT */    
     return 0;
 }
+
 ``` 
 ## Challenge 16: Diagonal Difference 
 #### Contest : Master 
@@ -745,6 +760,7 @@ int main(){
     
     return 0;
 }
+
 ``` 
 ## Challenge 17: Filling Jars 
 #### Contest : Master 
@@ -776,6 +792,7 @@ long long N,M,i,j;
     /* Enter your code here. Read input from STDIN. Print output to STDOUT */    
     return 0;
 }
+
 ``` 
 ## Challenge 18: Find Digits 
 #### Contest : Master 
@@ -809,6 +826,7 @@ int main(){
     }
     return 0;
 }
+
 ``` 
 ## Challenge 19: Flipping bits 
 #### Contest : Master 
@@ -832,6 +850,7 @@ int main() {
     }
     return 0;
 }
+
 ``` 
 ## Challenge 20: Gemstones 
 #### Contest : Master 
@@ -867,6 +886,7 @@ for(l=0;a[0][l]!='\0';l++)
     /* Enter your code here. Read input from STDIN. Print output to STDOUT */    
     return 0;
 }
+
 ``` 
 ## Challenge 21: Halloween party 
 #### Contest : Master 
@@ -902,6 +922,7 @@ int T;
     /* Enter your code here. Read input from STDIN. Print output to STDOUT */    
     return 0;
 }
+
 ``` 
 ## Challenge 22: Handshake 
 #### Contest : Master 
@@ -940,6 +961,7 @@ int main() {
     /* Enter your code here. Read input from STDIN. Print output to STDOUT */    
     return 0;
 }
+
 ``` 
 ## Challenge 23: Insertion Sort - Part 1 
 #### Contest : Master 
@@ -1007,6 +1029,7 @@ int main(void)
     insertionSort(array_size, array);
     return 0;
 }
+
 ``` 
 ## Challenge 24: Insertion Sort - Part 2 
 #### Contest : Master 
@@ -1081,6 +1104,7 @@ int main(void)
         insertionSort(array_size, array, num);
     return 0;
 }
+
 ``` 
 ## Challenge 25: Manasa and Stones 
 #### Contest : Master 
@@ -1124,6 +1148,7 @@ int T;
     /* Enter your code here. Read input from STDIN. Print output to STDOUT */    
     return 0;
 }
+
 ``` 
 ## Challenge 26: Max Min 
 #### Contest : Master 
@@ -1184,6 +1209,7 @@ int main() {
     printf("%lld\n",unfairness);
     return 0;
 }
+
 ``` 
 ## Challenge 27: Maximizing XOR 
 #### Contest : Master 
@@ -1213,6 +1239,7 @@ int main() {
     printf("%llu",maxxor);
     return 0;
 }
+
 ``` 
 ## Challenge 28: Maximum Draws 
 #### Contest : Master 
@@ -1236,6 +1263,7 @@ int main() {
     /* Enter your code here. Read input from STDIN. Print output to STDOUT */    
     return 0;
 }
+
 ``` 
 ## Challenge 29: Mini-Max Sum 
 #### Contest : Master 
@@ -1287,6 +1315,7 @@ int main() {
     printf("%ld %ld\n", min, max);
     return 0;
 }
+
 ``` 
 ## Challenge 30: Plus Minus 
 #### Contest : Master 
@@ -1338,6 +1367,7 @@ int main(){
     printf("%.6f", zero);
     return 0;
 }
+
 ``` 
 ## Challenge 31: Quicksort 1 - Partition 
 #### Contest : Master 
@@ -1417,6 +1447,7 @@ int main(void)
     partition(array_size, array);
     return 0;
 }
+
 ``` 
 ## Challenge 32: Quicksort 2 - Sorting 
 #### Contest : Master 
@@ -1535,6 +1566,7 @@ int main(void)
     return 0;
 }
 
+
 ``` 
 ## Challenge 33: Quicksort In-Place 
 #### Contest : Master 
@@ -1626,6 +1658,7 @@ int main()
          
     return 0;
 }
+
 ``` 
 ## Challenge 34: Red John is Back 
 #### Contest : Master 
@@ -1685,6 +1718,7 @@ int main() {
         
     return 0;
 }
+
 ``` 
 ## Challenge 35: Restaurant 
 #### Contest : Master 
@@ -1721,6 +1755,7 @@ int main() {
     /* Enter your code here. Read input from STDIN. Print output to STDOUT */    
     return 0;
 }
+
 ``` 
 ## Challenge 36: Reverse Game 
 #### Contest : Master 
@@ -1760,6 +1795,7 @@ int main() {
     /* Enter your code here. Read input from STDIN. Print output to STDOUT */    
     return 0;
 }
+
 ``` 
 ## Challenge 37: Running Time of Algorithms 
 #### Contest : Master 
@@ -1840,6 +1876,7 @@ int main(void)
     printf("%d", NUMBER_OF_SHIFTS);
     return 0;
 }
+
 ``` 
 ## Challenge 38: Running Time of Quicksort 
 #### Contest : Master 
@@ -1993,6 +2030,7 @@ int main()
     printf("%d", NUMBER_OF_SHIFTS - QUICK_SORT_COUNT);
     return 0;
 }
+
 ``` 
 ## Challenge 39: Service Lane 
 #### Contest : Master 
@@ -2030,6 +2068,7 @@ int i,en[T],ex[T],m[T];
     /* Enter your code here. Read input from STDIN. Print output to STDOUT */    
     return 0;
 }
+
 ``` 
 ## Challenge 40: Sherlock and Divisors 
 #### Contest : Master 
@@ -2063,6 +2102,7 @@ int main() {
     }
     return 0;
 }
+
 ``` 
 ## Challenge 41: Sherlock and GCD 
 #### Contest : Master 
@@ -2119,6 +2159,7 @@ long s,t,n,c[100];
     /* Enter your code here. Read input from STDIN. Print output to STDOUT */    
     return 0;
 }
+
 ``` 
 ## Challenge 42: Sherlock and Squares 
 #### Contest : Master 
@@ -2152,6 +2193,7 @@ int main(void) {
     /* Enter your code here. Read input from STDIN. Print output to STDOUT */    
     return 0;
 }
+
 ``` 
 ## Challenge 43: Sherlock and The Beast 
 #### Contest : Master 
@@ -2226,6 +2268,7 @@ for(i=0;i<T;i++)
     /* Enter your code here. Read input from STDIN. Print output to STDOUT */    
     return 0;
 }
+
 ``` 
 ## Challenge 44: Solve Me First 
 #### Contest : Master 
@@ -2249,6 +2292,7 @@ int main() {
   printf("%d",add(a,b));
   return 0;
 }
+
 ``` 
 ## Challenge 45: Staircase 
 #### Contest : Master 
@@ -2276,6 +2320,7 @@ int main(){
     }
     return 0;
 }
+
 ``` 
 ## Challenge 46: The Full Counting Sort 
 #### Contest : Master 
@@ -2314,6 +2359,7 @@ int main() {
         printf("%s ", c[i]);
     return 0;
 }
+
 ``` 
 ## Challenge 47: The Love-Letter Mystery 
 #### Contest : Master 
@@ -2358,6 +2404,7 @@ int T,i;
     /* Enter your code here. Read input from STDIN. Print output to STDOUT */    
     return 0;
 }
+
 ``` 
 ## Challenge 48: Utopian Tree 
 #### Contest : Master 
@@ -2400,6 +2447,7 @@ int T,G[11],X;
     /* Enter your code here. Read input from STDIN. Print output to STDOUT */    
     return 0;
 }
+
 ``` 
 ## Challenge 49: Intro to Tutorial Challenges 
 #### Contest : Master 
@@ -2434,6 +2482,7 @@ int main() {
     /* Enter your code here. Read input from STDIN. Print output to STDOUT */   
     return 0;
 }
+
 ``` 
 ## Challenge 50: Day 0: Hello, World. 
 #### Contest : Master 
@@ -2459,7 +2508,8 @@ public class Solution {
       
 	    // TODO: Write a line of code here that prints the contents of inputString to stdout.
 	}
-}``` 
+}
+``` 
 ## Challenge 51: Day 1: Data Types 
 #### Contest : Master 
 #### Language : java 
@@ -2482,13 +2532,15 @@ ___
 		System.out.println(d + d1);
         /* Concatenate and print the String variables on a new line; 
         	the 's' variable above should be printed first. */
-        System.out.println(s + s1);``` 
+        System.out.println(s + s1);
+``` 
 ## Challenge 52: Average Population 
 #### Contest : Master 
 #### Language : mysql 
 ___ 
 ```MySQL 
-select round(avg(population)) from city``` 
+select round(avg(population)) from city
+``` 
 ## Challenge 53: Employee Names 
 #### Contest : Master 
 #### Language : mysql 
@@ -2497,7 +2549,8 @@ ___
 /*
 Enter your query here.
 */
-select name from employee order by name asc``` 
+select name from employee order by name asc
+``` 
 ## Challenge 54: Employee Salaries 
 #### Contest : Master 
 #### Language : mysql 
@@ -2506,7 +2559,8 @@ ___
 /*
 Enter your query here.
 */
-select name from employee where salary > 2000 and months < 10 order by employee_id asc``` 
+select name from employee where salary > 2000 and months < 10 order by employee_id asc
+``` 
 ## Challenge 55: Higher Than 75 Marks 
 #### Contest : Master 
 #### Language : mysql 
@@ -2515,13 +2569,15 @@ ___
 /*
 Enter your query here.
 */
-select name from students where marks > 75 order by right(name, 3) asc, id asc``` 
+select name from students where marks > 75 order by right(name, 3) asc, id asc
+``` 
 ## Challenge 56: Japan Population 
 #### Contest : Master 
 #### Language : mysql 
 ___ 
 ```MySQL 
-select sum(population) from city where countrycode = 'JPN'``` 
+select sum(population) from city where countrycode = 'JPN'
+``` 
 ## Challenge 57: Japanese Cities' Attributes 
 #### Contest : Master 
 #### Language : mysql 
@@ -2529,19 +2585,22 @@ ___
 ```MySQL 
 select *
 from city
-where countrycode = 'JPN'``` 
+where countrycode = 'JPN'
+``` 
 ## Challenge 58: Japanese Cities' Names 
 #### Contest : Master 
 #### Language : mysql 
 ___ 
 ```MySQL 
-select name from city where countrycode = 'JPN'``` 
+select name from city where countrycode = 'JPN'
+``` 
 ## Challenge 59: Population Density Difference 
 #### Contest : Master 
 #### Language : mysql 
 ___ 
 ```MySQL 
-select max(population) - min(population) from city``` 
+select max(population) - min(population) from city
+``` 
 ## Challenge 60: Revising the Select Query II 
 #### Contest : Master 
 #### Language : mysql 
@@ -2549,7 +2608,8 @@ ___
 ```MySQL 
 select name
 from city
-where population > 120000 and countrycode = 'USA'``` 
+where population > 120000 and countrycode = 'USA'
+``` 
 ## Challenge 61: The Blunder 
 #### Contest : Master 
 #### Language : mysql 
@@ -2559,7 +2619,8 @@ ___
 Enter your query here.
 */
 /*SELECT CONVERT(REPLACE(STR(salary),'0',''),INTEGER) FROM employees;*/
-select ceil(avg(salary) - avg(replace(salary, 0, ''))) from employees``` 
+select ceil(avg(salary) - avg(replace(salary, 0, ''))) from employees
+``` 
 ## Challenge 62: Weather Observation Station 10 
 #### Contest : Master 
 #### Language : mysql 
@@ -2574,7 +2635,8 @@ where (CITY not LIKE '%a'
     and CITY not LIKE '%i' 
     and CITY not LIKE '%o'
     and CITY not LIKE '%u'
-) ``` 
+) 
+``` 
 ## Challenge 63: Weather Observation Station 11 
 #### Contest : Master 
 #### Language : mysql 
@@ -2594,7 +2656,8 @@ where (CITY not LIKE 'a%'
     and CITY not LIKE '%i' 
     and CITY not LIKE '%o'
     and CITY not LIKE '%u'
-)``` 
+)
+``` 
 ## Challenge 64: Weather Observation Station 12 
 #### Contest : Master 
 #### Language : mysql 
@@ -2614,7 +2677,8 @@ where (CITY not LIKE 'a%'
     and CITY not LIKE '%i' 
     and CITY not LIKE '%o'
     and CITY not LIKE '%u'
-)``` 
+)
+``` 
 ## Challenge 65: Weather Observation Station 14 
 #### Contest : Master 
 #### Language : mysql 
@@ -2624,7 +2688,8 @@ ___
 Enter your query here.
 */
 select truncate(max(lat_n), 4) from station
-where lat_n in (select lat_n from station where lat_n < 137.2345)``` 
+where lat_n in (select lat_n from station where lat_n < 137.2345)
+``` 
 ## Challenge 66: Weather Observation Station 15 
 #### Contest : Master 
 #### Language : mysql 
@@ -2634,7 +2699,8 @@ ___
 Enter your query here.
 */
 select round(long_w, 4) from station
-where lat_n in (select max(lat_n) from station where lat_n < 137.2345)``` 
+where lat_n in (select max(lat_n) from station where lat_n < 137.2345)
+``` 
 ## Challenge 67: Weather Observation Station 16 
 #### Contest : Master 
 #### Language : mysql 
@@ -2644,7 +2710,8 @@ ___
 Enter your query here.
 */
 select round(min(lat_n), 4) from station
-where lat_n > 38.7780``` 
+where lat_n > 38.7780
+``` 
 ## Challenge 68: Weather Observation Station 17 
 #### Contest : Master 
 #### Language : mysql 
@@ -2654,7 +2721,8 @@ ___
 Enter your query here.
 */
 select round(long_w, 4) from station
-where lat_n in (select min(lat_n) from station where lat_n > 38.7780) ``` 
+where lat_n in (select min(lat_n) from station where lat_n > 38.7780) 
+``` 
 ## Challenge 69: Weather Observation Station 18 
 #### Contest : Master 
 #### Language : mysql 
@@ -2663,7 +2731,8 @@ ___
 /*
 Enter your query here.
 */
-select round(max(lat_n) - min(lat_n) + max(long_w) - min(long_w), 4) from station ``` 
+select round(max(lat_n) - min(lat_n) + max(long_w) - min(long_w), 4) from station 
+``` 
 ## Challenge 70: Weather Observation Station 19 
 #### Contest : Master 
 #### Language : mysql 
@@ -2672,7 +2741,8 @@ ___
 /*
 Enter your query here.
 */
-select truncate(sqrt(power(max(lat_n) - min(lat_n),2) + power(max(long_w) - min(long_w),2)) , 4) from station``` 
+select truncate(sqrt(power(max(lat_n) - min(lat_n),2) + power(max(long_w) - min(long_w),2)) , 4) from station
+``` 
 ## Challenge 71: Weather Observation Station 3 
 #### Contest : Master 
 #### Language : mysql 
@@ -2683,7 +2753,8 @@ Enter your query here.
 */
 select distinct city
 from station
-where id % 2 = 0``` 
+where id % 2 = 0
+``` 
 ## Challenge 72: Weather Observation Station 4 
 #### Contest : Master 
 #### Language : mysql 
@@ -2692,7 +2763,8 @@ ___
 /*
 Enter your query here.
 */
-select count(city) - count(distinct city) from station``` 
+select count(city) - count(distinct city) from station
+``` 
 ## Challenge 73: Weather Observation Station 5 
 #### Contest : Master 
 #### Language : mysql 
@@ -2702,7 +2774,8 @@ ___
 Enter your query here.
 */
 select city, length(city) from station order by length(city) asc, city asc limit 1;
-select city, length(city) from station order by length(city) desc, city asc limit 1;``` 
+select city, length(city) from station order by length(city) desc, city asc limit 1;
+``` 
 ## Challenge 74: Weather Observation Station 6 
 #### Contest : Master 
 #### Language : mysql 
@@ -2712,7 +2785,8 @@ ___
 Enter your query here.
 */
 select distinct city from station 
-where city like 'a%' or city like 'e%' or city like 'i%' or city like 'o%' or city like 'u%'``` 
+where city like 'a%' or city like 'e%' or city like 'i%' or city like 'o%' or city like 'u%'
+``` 
 ## Challenge 75: Weather Observation Station 7 
 #### Contest : Master 
 #### Language : mysql 
@@ -2722,7 +2796,8 @@ ___
 Enter your query here.
 */
 select distinct city from station
-where city like '%a' or city like '%e' or city like '%i' or city like '%o' or city like '%u'``` 
+where city like '%a' or city like '%e' or city like '%i' or city like '%o' or city like '%u'
+``` 
 ## Challenge 76: Weather Observation Station 8 
 #### Contest : Master 
 #### Language : mysql 
@@ -2743,7 +2818,8 @@ where (CITY LIKE 'a%'
     OR CITY LIKE '%i'
     OR CITY LIKE '%o'
     OR CITY LIKE '%u'
-)``` 
+)
+``` 
 ## Challenge 77: Weather Observation Station 9 
 #### Contest : Master 
 #### Language : mysql 
@@ -2760,6 +2836,7 @@ where (CITY not LIKE 'a%'
     and CITY not LIKE 'u%'
 ) 
 
+
 ``` 
 ## Challenge 78: Revising the Select Query I 
 #### Contest : Master 
@@ -2770,14 +2847,16 @@ SELECT *
 FROM CITY
 WHERE
     COUNTRYCODE = 'USA'
-    AND POPULATION > 100000;``` 
+    AND POPULATION > 100000;
+``` 
 ## Challenge 79: Select All 
 #### Contest : Master 
 #### Language : oracle 
 ___ 
 ```MySQL 
 SELECT *
-FROM CITY``` 
+FROM CITY
+``` 
 ## Challenge 80: Select By ID 
 #### Contest : Master 
 #### Language : oracle 
@@ -2786,7 +2865,8 @@ ___
 SELECT *
 FROM CITY
 WHERE
-    ID = 1661;``` 
+    ID = 1661;
+``` 
 ## Challenge 81: Weather Observation Station 1 
 #### Contest : Master 
 #### Language : oracle 
@@ -2796,7 +2876,8 @@ ___
 Enter your query here.
 Please append a semicolon ";" at the end of the query and enter your query in a single line to avoid error.
 */
-SELECT CITY, STATE FROM STATION``` 
+SELECT CITY, STATE FROM STATION
+``` 
 ## Challenge 82: Sequence Equation 
 #### Contest : 101 Hack 45 
 #### Language : python 
@@ -2816,7 +2897,8 @@ for i in xrange(n):
     #print i+1, p[i]
     print p.index(p.index(i+1)+1)+1
         
-#print y``` 
+#print y
+``` 
 ## Challenge 83: A Very Big Sum 
 #### Contest : Master 
 #### Language : python 
@@ -2829,7 +2911,8 @@ import sys
 
 n = int(raw_input().strip())
 arr = map(int,raw_input().strip().split(' '))
-print sum(arr)``` 
+print sum(arr)
+``` 
 ## Challenge 84: CamelCase 
 #### Contest : Master 
 #### Language : python 
@@ -2848,6 +2931,7 @@ for i in range(len(s)):
         count += 1
         
 print count
+
 ``` 
 ## Challenge 85: Compare the Triplets 
 #### Contest : Master 
@@ -2865,6 +2949,7 @@ b0,b1,b2 = raw_input().strip().split(' ')
 b0,b1,b2 = [int(b0),int(b1),int(b2)]
 
 print sum([a0 > b0, a1 > b1, a2 > b2]), sum([b0 > a0, b1 > a1, b2 > a2])
+
 
 
 ``` 
@@ -2923,6 +3008,7 @@ else:
     result = product * diff + math.factorial(diff)/(math.factorial(2)*math.factorial(diff - 2))
 
 print result
+
 ``` 
 ## Challenge 87: Simple Array Sum 
 #### Contest : Master 
@@ -2936,7 +3022,8 @@ import sys
 
 n = int(raw_input().strip())
 arr = map(int,raw_input().strip().split(' '))
-print sum(arr)``` 
+print sum(arr)
+``` 
 ## Challenge 88: Sock Merchant 
 #### Contest : Master 
 #### Language : python 
@@ -2955,7 +3042,8 @@ c1 = list(set(c))
 for i in range(len(c1)):
     count[i] = c.count(c1[i])
     count[i] = count[i]//2
-print sum(count)``` 
+print sum(count)
+``` 
 ## Challenge 89: The Hurdle Race 
 #### Contest : Master 
 #### Language : python 
@@ -2973,7 +3061,8 @@ height = map(int, raw_input().strip().split(' '))
 if max(height) - k >= 0:
     print max(height) - k
 else:
-    print 0``` 
+    print 0
+``` 
 ## Challenge 90: Project Euler #1: Multiples of 3 and 5 
 #### Contest : ProjectEuler+ 
 #### Language : python 
@@ -3001,6 +3090,7 @@ for a0 in xrange(t):
     sum_tf = 15 * tf * (tf + 1)/2
     #print threes, fives, sum_threes, sum_fives, sum_tf
     print sum_threes + sum_fives - sum_tf
+
 ``` 
 ## Challenge 91: Project Euler #2: Even Fibonacci numbers 
 #### Contest : ProjectEuler+ 
@@ -3035,6 +3125,7 @@ for a0 in xrange(t):
     n = long(raw_input().strip())
     print fib(n)
         
+
 ``` 
 ## Challenge 92: Candy Replenishing Robot 
 #### Contest : Week of Code 30 
@@ -3069,7 +3160,8 @@ for i in range(t):
     #print
 
 print candies_added
-        ``` 
+        
+``` 
 ## Challenge 93: Find the Minimum Number 
 #### Contest : Week of Code 30 
 #### Language : python 
@@ -3087,6 +3179,7 @@ string = "min(int, int)"
 for i in range(3, n+1):
     string = "min(int, " + string + ")"
 print string
+
 ``` 
 ## Challenge 94: Melodious password 
 #### Contest : Week of Code 30 
@@ -3147,7 +3240,8 @@ for i in range(1, 7):
     if i == n:
         p = pwds(n)
         for k in p:
-            print k``` 
+            print k
+``` 
 ## Challenge 95: Range Modular Queries 
 #### Contest : Week of Code 30 
 #### Language : python 
@@ -3170,4 +3264,5 @@ for a0 in xrange(q):
         if a[i]%x == y:
             count += 1
     print count
+
 ``` 
