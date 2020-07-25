@@ -21,6 +21,10 @@ S.No|Course Name|Offered By|Enrollment Date|Grade Achieved
 15|[Data Visualization with Python][15]|IBM|6/21/2020|[98][G15]
 16|[Tools for Data Science][16]|IBM|6/24/2020|[97.5][G16]
 17|[Data Science Methodology][17]|IBM|7/4/2020|[100][G17]
+18|[Applied Data science capstone][18]|IBM|7/23/2020|[100][G18]
+19|[Introduction to Data Science Specialization][19]|IBM|7/5/2020|[SP][G19]
+20|[Applied Data Science Specialization][20]|IBM|7/23/2020|[SP][G20]
+21|[IBM Data Science Professional certificate][21]|IBM|7/24/2020|[SP][G21]
 
 [1]: https://www.coursera.org/learn/engineering-mechanics-statics
 [2]: https://www.coursera.org/learn/interactive-python-1
@@ -39,8 +43,12 @@ S.No|Course Name|Offered By|Enrollment Date|Grade Achieved
 [15]: https://www.coursera.org/learn/python-for-data-visualization
 [16]: https://www.coursera.org/learn/open-source-tools-for-data-science
 [17]: https://www.coursera.org/learn/data-science-methodology
+[18]: https://www.coursera.org/learn/applied-data-science-capstone
+[19]: https://www.coursera.org/specializations/introduction-data-science
+[20]: https://www.coursera.org/specializations/applied-data-science
+[21]: https://www.coursera.org/professional-certificates/ibm-data-science
 
-[G4]: https://coursera.org/share/f9ac49c417f97b0063e538cbca365e76
+[G4]: https://coursera.org/share/493859fa8750c2e79827e45ade1918dd
 [G5]: https://coursera.org/share/73b4c4f02347fed414a8d5faffc3672c
 [G6]: https://coursera.org/share/51294d27d3d21ca45756c775592b81d4
 [G7]: https://coursera.org/share/d1b8464a188cb7bc030f175528101f58
@@ -54,3 +62,7 @@ S.No|Course Name|Offered By|Enrollment Date|Grade Achieved
 [G15]: https://coursera.org/share/e9c76f949845a8ff66182bc3cb9a4821
 [G16]: https://coursera.org/share/7ddf1fe9200b70d6146722d4ce4e8d6f
 [G17]: https://coursera.org/share/6230fe10e931fbba6a3923ed22cffe74
+[G18]: https://coursera.org/share/360c9ee95238834b972838abf8bf7430
+[G19]: https://coursera.org/share/3b21a2b7dc0dd5cd92f22004d31b4433
+[G20]: https://coursera.org/share/d26da061d1f61c9c2747f5aae7a5b9df
+[G21]: https://coursera.org/share/430c7fe0d994285af10079fac9e1aef9
