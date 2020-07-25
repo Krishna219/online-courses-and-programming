@@ -1,0 +1,5 @@
+/*
+Enter your query here.
+*/
+select truncate(max(lat_n), 4) from station
+where lat_n in (select lat_n from station where lat_n < 137.2345)
